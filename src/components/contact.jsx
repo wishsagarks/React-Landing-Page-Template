@@ -104,14 +104,7 @@ export const Contact = (props) => {
                 {props.data ? props.data.address : "loading"}
               </p>
             </div>
-            <div className="contact-item">
-              <p>
-                <span>
-                  <i className="fa fa-phone"></i> Phone
-                </span>{" "}
-                {props.data ? props.data.phone : "loading"}
-              </p>
-            </div>
+           
             <div className="contact-item">
               <p>
                 <span>
@@ -149,10 +142,8 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
+            &copy; made by ❤️ KiiTian{" "}
+
           </p>
         </div>
       </div>
