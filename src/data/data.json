@@ -132,23 +132,23 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Sagar Satapathy",
+      "job": "DevOps"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Ayush Sinha",
+      "job": "MlOps"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Ritwik Rudra",
+      "job": "5 ⭐ Problem Solver"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Ashutosh Kumar Singh",
+      "job": "Cloud Advocate"
     }
   ],
   "Contact": {
